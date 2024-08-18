@@ -212,3 +212,11 @@ body {
 .reactions-body {
     height: 50vh;
 }
+
+.list-emoji {
+    cursor: pointer;
+}
+
+.list-emoji:hover {
+    background-color: rgba(0, 0, 0,0.1);
+}
